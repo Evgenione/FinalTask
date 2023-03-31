@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\bin\Debug\net7.0\finalTask.exe
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\bin\Debug\net7.0\finalTask.deps.json
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\bin\Debug\net7.0\finalTask.runtimeconfig.json
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\bin\Debug\net7.0\finalTask.dll
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\bin\Debug\net7.0\finalTask.pdb
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\finalTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\finalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\finalTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\finalTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\finalTask.dll
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\refint\finalTask.dll
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\finalTask.pdb
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\finalTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# seminar\FinalTask\finalTask\obj\Debug\net7.0\ref\finalTask.dll
